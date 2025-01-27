@@ -1,10 +1,8 @@
-tensorflow==2.10.0
-keras==2.10.0
-numpy==1.23.5
-pandas==1.5.1
-opencv-python==4.6.0.66
-matplotlib==3.6.2
-scipy==1.9.3
-glob2==0.7
-h5py==3.7.0
+tensorflow==2.11.0
+numpy==1.23.4
+pillow==8.4.0
+matplotlib==3.5.1
 nltk==3.7
+tqdm==4.64.1
+keras==2.11.0
+scikit-learn==1.1.3
